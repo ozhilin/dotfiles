@@ -3,6 +3,7 @@
 #
 alias grep='grep --color=auto'
 alias ls='ls -hF --color=auto'
+alias la='ls -lahF --color=auto'
 
 # 
 # Git shortcuts
