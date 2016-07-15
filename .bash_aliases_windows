@@ -1,0 +1,10 @@
+# 
+# GVim instead of vim
+#
+alias gvim='/c/Program\ Files\ \(x86\)/Vim/vim74/gvim.exe'
+alias gvimdiff='/c/Program\ Files\ \(x86\)/Vim/vim74/gvim.exe -d'
+
+alias vim='/c/Program\ Files\ \(x86\)/Vim/vim74/gvim.exe'
+alias view='/c/Program\ Files\ \(x86\)/Vim/vim74/gvim.exe -R'
+alias vimdiff='/c/Program\ Files\ \(x86\)/Vim/vim74/gvim.exe -d'
+
