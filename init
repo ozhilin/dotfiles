@@ -1,0 +1,11 @@
+#!/bin/bash
+rm ${HOME}/.bash_profile 2> /dev/null
+rm ${HOME}/.bash_profile_windows 2> /dev/null
+rm ${HOME}/.bash_aliases 2> /dev/null
+rm ${HOME}/.bash_functions 2> /dev/null
+
+ln .bash_profile ${HOME}/.bash_profile
+ln .bash_aliases ${HOME}/.bash_aliases
+ln .bash_functions ${HOME}/.bash_functions
+
+source .bash_profile
